@@ -65,4 +65,5 @@ Voordat ik wegga, besluit ik Jacob nog even te helpen met koken. Op het menu sta
 
 > *Wegens privacyoverwegingen zijn de namen van alle genoemde patiënten gefingeerd.
 
-	Ik schreef dit artikel voor mijn opleiding. Deze tekst verscheen eerder in Mindfull Magazine
+Ik schreef dit artikel voor mijn opleiding. Deze tekst verscheen eerder in Mindfull Magazine
+{:.info}
