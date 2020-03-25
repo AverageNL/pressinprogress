@@ -1,4 +1,7 @@
-# Geen Monsters, Maar Mensen
+---
+title: Geen Monsters, Maar Mensen
+tags: Daan
+---
 
 “Ik heb al 24 jaar tbs”, vertelt Jacob* me zonder blikken of blozen, terwijl hij met een vlijmscherp mes aardappelen schilt. Jacob is een man van middelbare leeftijd, gekleed in een Ajax-kloffie. Hij is gek op koken, en vanavond mag hij het avondeten verzorgen voor zijn medepatiënten op de forensische zorgafdeling Forence in Deventer.
 Verkeerd beeld
