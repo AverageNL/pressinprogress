@@ -5,7 +5,8 @@ tags: Reportage
 ---
 
 “Ik heb al 24 jaar tbs”, vertelt Jacob* me zonder blikken of blozen, terwijl hij met een vlijmscherp mes aardappelen schilt. Jacob is een man van middelbare leeftijd, gekleed in een Ajax-kloffie. Hij is gek op koken, en vanavond mag hij het avondeten verzorgen voor zijn medepatiënten op de forensische zorgafdeling Forence in Deventer.
-Verkeerd beeld
+
+## Verkeerd beeld
 
 Hoe zie jij een forensische afdeling voor je? Ik dacht zelf aan een hermetisch afgesloten gebouw, omringd door torenhoge muren en hekken met roestig prikkeldraad. Natuurlijk is het geheel ook zwaar beveiligd. Je begrijpt mijn verbazing toen ik bij Forence een vrij toegankelijk terrein opkwam, zonder muren, hekken of beveiliging. Het was direct duidelijk dat ik, net als een groot deel van Nederland, een compleet verkeerd beeld had bij deze zorg. In vijf dagen tijd maak ik kennis met wat dit nou écht inhoudt.
 
